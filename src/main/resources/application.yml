@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: allianz-config 
+    name: allianz-server 
   cloud:
     config:
       server:
